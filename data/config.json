@@ -1,0 +1,25 @@
+{
+  "name": "Square Era",
+  "version": "1.2.0",
+  "motd": "Welcome to Square Era! Build, survive, and explore together.",
+  "maintenance": false,
+  "defaultHotbar": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    213
+  ],
+  "spawnCoordinates": {
+    "x": 7.5,
+    "y": 28.0,
+    "z": 3.5
+  },
+  "maxRenderDistanceChunks": 24,
+  "mqttBroker": "broker.hivemq.com",
+  "mqttPort": 8884
+}
